@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @envity7920 a.k.a Nguyễn Văn Toản
 - 👀 I’m interested in reading stories and listening to music
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me envity7920@gmail.com or https://www.facebook.com/envityisme/
 
